@@ -102,3 +102,15 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+module1-join-and-reshape-data/instacart_2017_05_01/products.csv
+module1-join-and-reshape-data/instacart_2017_05_01/orders.csv
+module1-join-and-reshape-data/instacart_2017_05_01/order_products__train.csv
+module1-join-and-reshape-data/instacart_2017_05_01/order_products__prior.csv
+module1-join-and-reshape-data/instacart_2017_05_01/departments.csv
+module1-join-and-reshape-data/instacart_2017_05_01/aisles.csv
+module1-join-and-reshape-data/instacart_2017_05_01/._products.csv
+module1-join-and-reshape-data/instacart_2017_05_01/._orders.csv
+module1-join-and-reshape-data/instacart_2017_05_01/._order_products__train.csv
+module1-join-and-reshape-data/instacart_2017_05_01/._order_products__prior.csv
+module1-join-and-reshape-data/instacart_2017_05_01/._departments.csv
+module1-join-and-reshape-data/instacart_2017_05_01/._aisles.csv
